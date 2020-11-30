@@ -1,2 +1,2 @@
 # youbili
-A developing video service.
+video service, under construction.
