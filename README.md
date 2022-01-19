@@ -1,4 +1,4 @@
 # youbili
-video service, under construction.
+reverse search bilibili video source on youtube
 
-1. Might shrink down to a Chrome plugin or something...
+> Might be to a Chrome plugin or something light...
