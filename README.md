@@ -1,6 +1,8 @@
 # youbili
 reverse search bilibili video source on youtube
 
+> :warning: **Not fun enough. Deprecated.**
+
 - https://github.com/zaxtyson/AnimeSearcher
 - https://developer.chrome.com/docs/extensions/mv3/user_interface/
 
@@ -10,4 +12,4 @@ reverse search bilibili video source on youtube
 1. Search video on bilibili
 2. mode replace: replace youtube video player with webview or sth
 3. mode hint: hint if there is a corresponding source on bili
-4. mode load only danmaku?
+4. mode load only danmaku
